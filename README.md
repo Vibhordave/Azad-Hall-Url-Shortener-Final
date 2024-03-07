@@ -1,5 +1,13 @@
 The master branch consists of Backend and the main branch consists of frontend
 
+
+# Contribution:
+Vibhor Dave: Login and Registration Integration and URL Shortening(Both Backend and Integration)
+Ashwini Kumar Biswal: Login Register API end points
+Ishan Raj: Register and Login Logic
+2nd Years:
+Frontend design and implementation(except integration which is mentioned above).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
